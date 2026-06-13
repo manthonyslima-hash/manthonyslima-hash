@@ -1,14 +1,20 @@
 <!-- BANNER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Meu%20GitHub&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Matheus%20Anthony&fontSize=40&fontColor=ffffff)
 
-Olá, eu sou Matheus Anthony 👾👋
+# 👋 Olá, eu sou Matheus Anthony
 
-- 🎯 Eu sou aluno da Etec de Guarulhos no curso técnico de Informática para Internet.
-- 📊 Tenho interesse pela área da tecnologia.
-- 👥 Gosto de trabalhar em equipe.
-- 🇺🇸 Estudo inglês básico na Wizard.
-- 💬 Formado em Pacote Office (Word, Excel Avançado, Powerpoint, Programação C++ Intermediária).
+💻 Desenvolvedor apaixonado por tecnologia e criação de soluções  
+🚀 Focado em evolução constante como desenvolvedor  
+📚 Sempre aprendendo e construindo projetos novos  
 
+---
+
+# 🧠 Sobre mim
+
+- 🔭 Atualmente desenvolvendo projetos pessoais e estudando programação
+- 🌱 Aprendendo boas práticas, backend e frontend moderno
+- 🎯 Objetivo: me tornar um desenvolvedor de alto nível
+- ⚡ Gosto de transformar ideias em código funcional
 
 ---
 
@@ -18,8 +24,8 @@ Olá, eu sou Matheus Anthony 👾👋
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
 
 ---
 
@@ -37,7 +43,7 @@ Olá, eu sou Matheus Anthony 👾👋
 
 ---
 
-# 🐍 Contribuições (Snake)
+# 🐍 Minhas contribuições
 
 ![Snake animation](https://github.com/manthonyslima-hash/manthonyslima-hash/blob/output/snake.svg)
 
@@ -45,18 +51,21 @@ Olá, eu sou Matheus Anthony 👾👋
 
 # 📌 Projetos em destaque
 
-- 🚀 Blue Macaw - Um site de marca de roupas desenvolvido com HTML, CSS e JavaScript.
-- 💡 Studium XP - Uma simulação de um app que revolciona a educação nas escola públicas.
-- 📱 GameZone - Um site de jogos desenvolvido em aula utilizando HTML e CSS.
+- 🚀 Projeto 1 — coloque aqui seus projetos principais
+- 💡 Projeto 2 — descrição breve
+- 📱 Projeto 3 — descrição breve
+
 ---
 
 # 🌐 Contato
 
-- Email: manthonyslima@gmail.com  
-- LinkedIn: [https://linkedin.com/in/seu-perfil](https://github.com/manthonyslima-hash)  
-- Portfólio: file:///C:/Users/Alunos/Desktop/Site%20de%20moda%20Blue%20Macaw%20atualizado%202.1/Site%20de%20moda%20Blue%20Macaw%20atualizado/Site%20de%20moda%20Blue%20Macaw/Site%20de%20moda%20Blue%20Macaw/assets/index.html  
+- GitHub: https://github.com/manthonyslima-hash  
+- LinkedIn: adicione seu link aqui  
+- Email: adicione seu email aqui  
 
 ---
+
+# ⚡ Extras
 
 <!-- FOOTER -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f172a&height=120&section=footer)

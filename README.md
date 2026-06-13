@@ -3,18 +3,14 @@
 
 # 👋 Olá, eu sou Matheus Anthony
 
-💻 Desenvolvedor apaixonado por tecnologia e criação de soluções  
-🚀 Focado em evolução constante como desenvolvedor  
-📚 Sempre aprendendo e construindo projetos novos  
+Olá, eu sou Matheus Anthony 👾👋
 
----
+- 🎯 Eu sou aluno da Etec de Guarulhos no curso técnico de Informática para Internet.
+- 📊 Tenho interesse pela área da tecnologia.
+- 👥 Gosto de trabalhar em equipe.
+- 🇺🇸 Estudo inglês básico na Wizard.
+- 💬 Formado em Pacote Office (Word, Excel Avançado, Powerpoint, Programação C++ Intermediária).
 
-# 🧠 Sobre mim
-
-- 🔭 Atualmente desenvolvendo projetos pessoais e estudando programação
-- 🌱 Aprendendo boas práticas, backend e frontend moderno
-- 🎯 Objetivo: me tornar um desenvolvedor de alto nível
-- ⚡ Gosto de transformar ideias em código funcional
 
 ---
 
@@ -49,11 +45,11 @@
 
 ---
 
-# 📌 Projetos em destaque
+ 📌 Projetos em destaque
 
-- 🚀 Projeto 1 — coloque aqui seus projetos principais
-- 💡 Projeto 2 — descrição breve
-- 📱 Projeto 3 — descrição breve
+- 🚀 Blue Macaw - Um site de marca de roupas desenvolvido com HTML, CSS e JavaScript.
+- 💡 Studium XP - Uma simulação de um app que revolciona a educação nas escola públicas.
+- 📱 GameZone - Um site de jogos desenvolvido em aula utilizando HTML e CSS.
 
 ---
 

@@ -49,12 +49,6 @@ Olá, eu sou Matheus Anthony 👾👋
 # 🐍 Minhas contribuições
 
 ![Snake animation](https://github.com/manthonyslima-hash/manthonyslima-hash/blob/output/snake.svg)
-### 🌙 Dark mode
-![snake dark](https://raw.githubusercontent.com/manthonyslima-hash/manthonyslima-hash/output/snake-dark.svg)
-
-### ⚡ Neon mode
-![snake neon](https://raw.githubusercontent.com/manthonyslima-hash/manthonyslima-hash/output/snake-neon.svg)
-
 
 ---
 

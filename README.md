@@ -1,9 +1,6 @@
 <!-- BANNER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Meu%20GitHub&fontSize=40&fontColor=ffffff)
 
-<!-- BANNER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Meu%20GitHub&fontSize=40&fontColor=ffffff)
-
 Olá, eu sou Matheus Anthony 👾👋
 
 - 🎯 Eu sou aluno da Etec de Guarulhos no curso técnico de Informática para Internet.
@@ -77,21 +74,21 @@ Olá, eu sou Matheus Anthony 👾👋
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=manthonyslima-hash&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthonyslima-hash&layout=compact&theme=radical)
 
 ---
 
 # 🔥 Streak
 
-![Streak](https://streak-stats.demolab.com?user=SEU-USUARIO&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=manthonyslima-hash&theme=radical)
 
 ---
 
 # 🐍 Contribuições (Snake)
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/snake.svg)
+![Snake animation](https://github.com/SEU-USUARIO/manthonyslima-hash/blob/output/snake.svg)
 
 
 <!-- FOOTER -->

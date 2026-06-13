@@ -28,37 +28,36 @@ Olá, eu sou Matheus Anthony 👾👋
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=manthonyslima-hash&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthonyslima-hash&layout=compact&theme=radical)
 
 ---
 
 # 🔥 Streak
 
-![Streak](https://streak-stats.demolab.com?user=SEU-USUARIO&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=manthonyslima-hash&theme=radical)
 
 ---
 
 # 🐍 Contribuições (Snake)
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/snake.svg)
+![Snake animation](https://github.com/SEU-USUARIO/manthonyslima-hash/blob/output/snake.svg)
 
 ---
 
 # 📌 Projetos em destaque
 
-- 🚀 Projeto 1 — descrição breve do projeto
-- 💡 Projeto 2 — descrição breve do projeto
-- 📱 Projeto 3 — descrição breve do projeto
-
+- 🚀 Blue Macaw - Um site de marca de roupas desenvolvido com HTML, CSS e JavaScript.
+- 💡 Studium XP - Uma simulação de um app que revolciona a educação nas escola públicas.
+- 📱 GameZone - Um site de jogos desenvolvido em aula utilizando HTML e CSS.
 ---
 
 # 🌐 Contato
 
-- Email: seuemail@email.com  
-- LinkedIn: https://linkedin.com/in/seu-perfil  
-- Portfólio: https://seusite.com  
+- Email: manthonyslima@gmail.com  
+- LinkedIn: [https://linkedin.com/in/seu-perfil](https://github.com/manthonyslima-hash)  
+- Portfólio: file:///C:/Users/Alunos/Desktop/Site%20de%20moda%20Blue%20Macaw%20atualizado%202.1/Site%20de%20moda%20Blue%20Macaw%20atualizado/Site%20de%20moda%20Blue%20Macaw/Site%20de%20moda%20Blue%20Macaw/assets/index.html  
 
 ---
 
@@ -94,23 +93,6 @@ Olá, eu sou Matheus Anthony 👾👋
 
 ![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/snake.svg)
 
----
-
-# 📌 Projetos em destaque
-
-- 🚀 Projeto 1 — descrição breve do projeto
-- 💡 Projeto 2 — descrição breve do projeto
-- 📱 Projeto 3 — descrição breve do projeto
-
----
-
-# 🌐 Contato
-
-- Email: seuemail@email.com  
-- LinkedIn: https://linkedin.com/in/seu-perfil  
-- Portfólio: https://seusite.com  
-
----
 
 <!-- FOOTER -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f172a&height=120&section=footer)
